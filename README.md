@@ -1,2 +1,2 @@
 # MDCA
-The code for paper “Dual Causes Generation Assisted Model for Multimodal Aspect-based Sentiment Classification”
+The code is for paper “Dual Causes Generation Assisted Model for Multimodal Aspect-based Sentiment Classification”
