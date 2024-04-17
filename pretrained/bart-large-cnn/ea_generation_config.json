@@ -1,0 +1,17 @@
+{
+  "bos_token_id": 0,
+  "decoder_start_token_id": 0,
+  "early_stopping": true,
+  "eos_token_id": 2,
+  "forced_bos_token_id": 0,
+  "forced_eos_token_id": 2,
+  "length_penalty": 1.0,
+  "no_repeat_ngram_size": 3,
+  "max_new_tokens": 256,
+  "min_length": 3,
+  "pad_token_id": 1,
+  "forced_decoder_ids": [[1, 50267]],
+  "output_hidden_states": false,
+  "return_dict_in_generate": false,
+  "transformers_version": "4.26.1"
+}
