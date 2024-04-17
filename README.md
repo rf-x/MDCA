@@ -24,7 +24,7 @@ This repo provides the source code and data for the paper Dual Causes Generation
 
 ----------
 
-### Dataset
+### Datasedevicet
 1. Text data: Twitter2015 ([twitter2015](data/twitter2015)) and Twitter2017 ([twitter2017](data/twitter2017)).
 2. Image features data: Download from [Google Drive](https://drive.google.com/drive/folders/1F-cjyNCm57gpJd0Rt4zWJCjt_mvbOWwu?usp=sharing). Put them to the fold `data/twitter2015` and `data/twitter2017`.
 
@@ -45,3 +45,9 @@ Use Flan-T5：
 ```
 python run_flant5.py
 ```
+Some important arguments:
+- `--cuda_id`: Choose which GPUs to run (default is 0).
+- `--dataset_name`: Name of the dataset. Choices are 'twitter2015' or 'twitter2017'.
+- `--learning_rate`: The initial learning rate for Adam.
+- `--num_train_epochs`: Total number of training epochs to perform.
+- `--lamda`: A trade-off hyperparameter for the main loss.
