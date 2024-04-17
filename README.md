@@ -7,7 +7,7 @@ This repo provides the source code and data for the paper Dual Causes Generation
 ## Overview
 
 <p align="center">
-  <img src="./framework.png" width="800"/>
+  <img src="./framework.png" width="700"/>
 </p>
 
 ----------
