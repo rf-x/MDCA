@@ -1,6 +1,6 @@
 # MDCA: Multimodal dual cause analysis
 
-This repo provides the source code and data for the paper Dual Causes Generation Assisted Model for Multimodal Aspect-based Sentiment Classification
+This repo provides the source code and data for the paper Dual Causes Generation Assisted Model for Multimodal Aspect-based Sentiment Classification (TNNLS 2024)
 
 ----------
 
@@ -36,7 +36,7 @@ This repo provides the source code and data for the paper Dual Causes Generation
 
 ----------
 
-###  Training and Evaluating 
+### Training and Evaluating 
 Use BART：
 ```
 python run_bart.py
@@ -51,3 +51,24 @@ Some important arguments:
 - `--learning_rate`: The initial learning rate for Adam.
 - `--num_train_epochs`: Total number of training epochs to perform.
 - `--lamda`: A trade-off hyperparameter for the main loss.
+
+----------
+
+### Citation
+
+If you use this project in your research, please cite our paper:
+
+
+**BibTeX:**
+
+```bibtex
+@article{fan2024dual,
+  author={Fan, Rui and He, Tingting and Chen, Menghan and Zhang, Mengyuan and Tu, Xinhui and Dong, Ming},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Dual Causes Generation Assisted Model for Multimodal Aspect-Based Sentiment Classification}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TNNLS.2024.3415028}
+}
