@@ -24,7 +24,7 @@ This repo provides the source code and data for the paper Dual Causes Generation
 
 ----------
 
-### Datasedevicet
+### Datasets
 1. Text data: Twitter2015 ([twitter2015](data/twitter2015)) and Twitter2017 ([twitter2017](data/twitter2017)).
 2. Image features data: Download from [Google Drive](https://drive.google.com/drive/folders/1F-cjyNCm57gpJd0Rt4zWJCjt_mvbOWwu?usp=sharing). Put them to the fold `data/twitter2015` and `data/twitter2017`.
 
