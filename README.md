@@ -1,6 +1,6 @@
 # MDCA: Multimodal dual cause analysis
 
-This repo provides the source code and data for the paper Dual Causes Generation Assisted Model for Multimodal Aspect-based Sentiment Classification (TNNLS 2024)
+This repo provides the source code and data for the paper Dual Causes Generation Assisted Model for Multimodal Aspect-based Sentiment Classification. (TNNLS 2024)
 
 ----------
 
